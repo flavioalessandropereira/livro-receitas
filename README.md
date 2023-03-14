@@ -9,4 +9,4 @@ Olá ! Bem-vindo ao meu livro de receitas :wave:
 
 
 Tecnologia:
-# HTML
+# HTML - marcação de texto
