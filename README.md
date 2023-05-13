@@ -7,5 +7,5 @@ Olá! Bem-vindo ao livro de receitas :wave:
 - Pavê :cookie:
 
 
-Tecnologia:
-# HTML - marcação de texto
+Linguagem Utilizadas:
+## HTML - marcação de texto
