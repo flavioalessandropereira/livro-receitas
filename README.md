@@ -1,7 +1,7 @@
 # Livro de Receitas :man_cook:
 
 
-Olá! Bem-vindo ao livro de receitas :wave:
+Olá! Aqui encontra algumas receitas: wave:
 
 - Strogonoff de Frango :chicken:
 - Pavê :cookie:
